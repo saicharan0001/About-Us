@@ -8,7 +8,9 @@
     display: none;
 } */
 body {
-    background-color: rgba(137, 43, 226, 0.11);
+    /* background-color: rgba(137, 43, 226, 0.11); */
+/* background-image: url('images/background_2.jpg'); */
+background-size: cover;
 }
 
 header {
@@ -165,6 +167,10 @@ header {
     text-decoration: none;
 
 }
+.socialhandles a:visited {
+    color: rgb(77, 77, 237);
+    text-decoration: none;
+  }
 
 .fa {
     cursor: pointer;
