@@ -12,7 +12,9 @@ body {
 /* background-image: url('images/background_2.jpg'); */
 background-size: cover;
 }
-
+.role{
+    display: none;
+}
 header {
     height: 70px;
     background-color: rgb(58, 58, 60);
